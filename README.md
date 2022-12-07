@@ -6,3 +6,6 @@ create crud laravel 9
 php artisan make:crud crudName
 
 ```
+
+# what doning is package 
+
